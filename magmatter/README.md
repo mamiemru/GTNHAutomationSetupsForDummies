@@ -3,9 +3,10 @@ GTNH automation script for OC to deal with Magmatter Production in any case scen
 
 
 Program par claude code, il demande un subnet green (output des elements)
-subnet blue (input des elements/plasma), purple (storage des plasma)
-dans le subnet vert placer une storage bus pour virer la magmatter ailleur, une stocking set en space et time pour re insertion.
-les 3 channels ont un adapteur connecté à une interface, le channel purple to blue a un transposer d'une interface vers un tank 
+subnet blue (input des plasma), purple (storage des plasma)
+
+dans le subnet vert placer une storage bus pour virer la magmatter ailleur (prio 1000), une stocking set en space et time pour re insertion.
+les 3 subnets ont un adapteur connecté à une interface, le channel purple to blue a un transposer d'une interface vers un tank 
 le tank est storage bus sur le blue, il y a un autre transposer depuis l'interface du sub green vers une trash à item.
 mettre une database t3 dans un adapter.
 
