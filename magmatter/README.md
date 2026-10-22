@@ -14,6 +14,8 @@ Ce que j'ai remarqué des setup déjà présent sur d'autre tuto repo c'est qu'i
 Aussi que lorsqu'on craft un gros truc (genre la gate) on vide tout le storage qui sert à replanish le purple subnet donc la plus part des programmes crash car ils trouvent
 pas les resources. Le miens il préfèrera attendre et toutes les 5 secondes re essayer ce qui est "interuption proof" et "mamie proof" (très important).
 
+PS: Askip le adapter qui est entre OC et le subnet Blue ne sert à rien.
+
 
 <img width="1257" height="1133" alt="image" src="https://github.com/user-attachments/assets/d89095a5-25f6-4971-ad4c-85a7785a4a35" />
 
