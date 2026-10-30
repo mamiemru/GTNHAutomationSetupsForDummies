@@ -6,7 +6,10 @@ Im not gonna tuto how to setup the ritual, but only the bore placement.
 
 
 The Warded block is at 30 blocs of the Bore base block. The Warded block mark the center of the contraption. (horiontaly and verticaly).
-We use a BM Bound pickage with efficiency 29 and a Wand focus Excavation Potency2 and Enlarge2.
+We use a BM Bound pickage with efficiency 29 and a Wand focus Excavation Potency2 and Enlarge2. 
+
+There is a total of 42 Arcane Bore. The block is where the Arcane bore mining head is.
+
 **You have to build it from the Center block.**
 
 <img width="1204" height="895" alt="image" src="https://github.com/user-attachments/assets/1cce5e3c-18aa-45cc-8a5f-249b6dfc454a" />
@@ -14,8 +17,10 @@ We use a BM Bound pickage with efficiency 29 and a Wand focus Excavation Potency
 
 
 
+------
 
 **Depreacated** This folowing section below is deprecated, you should build your setup from the center block. this is still here for historisation.
+
 Voici la liste des 42 centres, de la rangée 1 (haut) à la rangée 49 (bas). Pour chaque rangée, j’indique la distance depuis la bordure gauche du disque : 0 correspond au premier bloc de la rangée, 7 au huitième, etc. Une rangée sans centre est notée « None », et plusieurs centres dans la même rangée sont séparés par « & ».
 
 | Rangée | Largeur | Distances depuis la bordure gauche |
